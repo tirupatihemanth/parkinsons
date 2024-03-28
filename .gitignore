@@ -1,0 +1,6 @@
+.DS_Store
+*.json
+*.tar
+*.pkl
+*.csv
+*.npy
